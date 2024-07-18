@@ -130,4 +130,4 @@ Autonomous Driving (CVPR2024)
  Aligning Knowledge Graph with Visual Perception for Object-goal Navigation (ICRA 2024)
 
 ## Contact
-This repository is currently maintained by [Kang Zhou](mailto:kanzhou@cityu.edu.hk).
+This repository is currently maintained by Jian Luo, Jie Yang, Bo Cai,  Kang Zhou, Jian Zhang
